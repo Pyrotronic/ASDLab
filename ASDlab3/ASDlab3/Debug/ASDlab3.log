@@ -1,0 +1,3 @@
+﻿  ASDlab3.cpp
+C:\Users\vladi\labsprogramm'\ASDlab3\ASDlab3\ASDlab3.cpp(83,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ASDlab3.vcxproj -> C:\Users\vladi\labsprogramm'\ASDlab3\Debug\ASDlab3.exe
